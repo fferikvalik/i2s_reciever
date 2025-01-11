@@ -1,0 +1,7 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+F:/yadro_i2s_reciever/I2S_controller_reciever/I2S_controller_reciever.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+F:/yadro_i2s_reciever/I2S_controller_reciever/I2S_controller_reciever.srcs/sim_1/new/i2s_testbench.sv,1736030145,systemVerilog,,,,i2s_tb,,,,,,,,
+F:/yadro_i2s_reciever/I2S_controller_reciever/I2S_controller_reciever.srcs/sources_1/new/i2s_microphone_controller.sv,1736580034,systemVerilog,,F:/yadro_i2s_reciever/I2S_controller_reciever/I2S_controller_reciever.srcs/sim_1/new/i2s_testbench.sv,,i2s,,,,,,,,

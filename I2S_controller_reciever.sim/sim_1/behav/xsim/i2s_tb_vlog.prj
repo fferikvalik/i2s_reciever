@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../I2S_controller_reciever.srcs/sources_1/new/i2s_microphone_controller.sv" \
+"../../../../I2S_controller_reciever.srcs/sim_1/new/i2s_testbench.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
